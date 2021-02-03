@@ -1,4 +1,3 @@
-# Nipple detection algorithm
+# Artificial vision pattern recognition
 
-Nipple detection algorithm in breast thermograms on Matlab.
-Please refer to the report for more details.
+Collection of different projects related to artificial vision
